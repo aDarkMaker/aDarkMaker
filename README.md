@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 
-## 关于我
-你好！我是 aDarkMaker，一名热爱编程的开发者。我喜欢探索新技术，构建有趣的项目，并分享我的学习经验。
+## 我觉得我是
+你好！我是 aDarkMaker，一名人类！！
 
 ## 我觉得我会
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -28,11 +28,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-FF6B35?style=flat-square&logo=avalonia&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-FF6B35?style=flat-square&logo=avaloniaui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![BiliBili](https://img.shields.io/badge/BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
 
-## GitHub 统计
+## GitHub 觉得我是
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aDarkMaker&show_icons=true&theme=dracula)
 
