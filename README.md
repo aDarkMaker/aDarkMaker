@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 
 ## I think am
-Hello！I am aDarkMaker，a Human！！
+Hello！I am aDarkMaker，a Human!!
 
 ## I think I can
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
