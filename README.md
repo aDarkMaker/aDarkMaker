@@ -1,9 +1,9 @@
 # Welcome to my GitHub! 👋
 
-## 我觉得我是
-你好！我是 aDarkMaker，一名人类！！
+## I think am
+Hello！I am aDarkMaker，a Human！！
 
-## 我觉得我会
+## I think I can
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,16 +36,16 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![BiliBili](https://img.shields.io/badge/BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
 
-## GitHub 觉得我是
+## GitHub think am
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aDarkMaker&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aDarkMaker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 贡献统计
+## Git totals
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aDarkMaker&theme=dracula)
 
-## 联系我
+## Connect with me
 - Email: [2261265112@qq.com]
 
