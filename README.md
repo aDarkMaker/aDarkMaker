@@ -102,18 +102,11 @@
 
 ## GitHub Stats
 
-<div align="center">
+<img alt="aDarkMaker's lang" src="https://github-readme-stats-chi-lime-95.vercel.app/api/top-langs/?username=aDarkMaker&hide_title=true&layout=compact&theme=vue&hide=html,less,vue" width="600" />
 
-<img alt="aDarkMaker's lang" src="https://github-readme-stats-chi-lime-95.vercel.app/api/top-langs/?username=aDarkMaker&hide_title=true&layout=compact&theme=vue&hide=html,less,vue" height="165" />
-<img alt="aDarkMaker's stat" src="https://github-readme-stats-chi-lime-95.vercel.app/api?username=aDarkMaker&hide_title=true&layout=compact&theme=vue" height="165" />
+<img alt="aDarkMaker's stat" src="https://github-readme-stats-chi-lime-95.vercel.app/api?username=aDarkMaker&hide_title=true&layout=compact&theme=vue" width="600" />
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aDarkMaker&theme=dracula)
-
-</div>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aDarkMaker&theme=dracula" width="600" />
 
 ## Connect with me
 Email: [2261265112@qq.com](mailto:2261265112@qq.com)
